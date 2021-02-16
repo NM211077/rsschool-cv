@@ -4,6 +4,8 @@
 
 ### _Trainee/Junior JavaScript developer_
 
+![title](photo.png)
+
 I'm a positive and open-minded person who has a strong desire to work in IT field.I have understanding of software development life cycle, practical  experience of  development (social project, as a React developer) ,non commercial. I have a basic knowledge of HTML, CSS, JavaScript, React,Redux and  Golang. I'm familiar with Jira and client-server architecture.
 
 ##### Contacts:	
@@ -12,11 +14,11 @@ I'm a positive and open-minded person who has a strong desire to work in IT fiel
  e-mail: y.natali.moskalenko@gmail.com
  phone:  +380639824737, 0682923567 
  [Github](https://github.com/NM211077?tab=repositories)
-------
+***
 
 ##### Objective:
 Develop my technical skills and start a career in IT.
-*****
+***
 
 ##### Personal qualities:
 Logical thinking, analytical mind,  communicative, optimistic, able to solve complex of multifaceted tasks, dedication, initiative, good sense of humor:)
