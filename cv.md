@@ -14,15 +14,15 @@ I'm a positive and open-minded person who has a strong desire to work in IT fiel
  e-mail: y.natali.moskalenko@gmail.com
  phone:  +380639824737, 0682923567 
  [Github](https://github.com/NM211077?tab=repositories)
-***
+****
 
 ##### Objective:
 Develop my technical skills and start a career in IT.
-***
+****
 
 ##### Personal qualities:
 Logical thinking, analytical mind,  communicative, optimistic, able to solve complex of multifaceted tasks, dedication, initiative, good sense of humor:)
-***
+****
 
 ##### Knowledges:
  - Practical experience in JavaScript developing (ES5, ES6);
@@ -35,7 +35,7 @@ Logical thinking, analytical mind,  communicative, optimistic, able to solve com
 - Developing on Linux;
 - Basic knowledge of Golang,
 - Basic knowledge of MySql
-***
+****
 
 ##### Code examples:
 Create a function average () that will average all of its arguments (magnitude arguments are numeric).
@@ -50,19 +50,19 @@ function average(arr) {
 };
 console.log(average([8,2,3]));
  ```
- ***
+ ****
 
 ##### Work experience:
 
 April 2020 -present
 Green Pin (social project), Front-end dev (React)
-***
+****
 
 ##### Education:
 
 Kharkiv State Academy of Railway Transport, Kharkiv
   Specialty:  accounting, economist ;specialist
-***
+****
 
 ##### Languages:
 
