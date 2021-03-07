@@ -94,13 +94,18 @@ body {
     color: #445162;
 }
 
+.footer_text li {
+    list-style-type: none;
+}
+
 @media (max-width: 1200px) {
     .wrapper {
         padding-left: 40px;
         padding-right: 40px;
         max-width: 970px;
     }
-    .header_info{
+
+    .header_info {
         font-size: 30px;
     }
 }
@@ -112,9 +117,10 @@ body {
 }
 
 @media (max-width: 767px) {
-    body{
+    body {
         margin: 0px;
     }
+
     .wrapper {
         max-width: none;
         margin: 0px;
@@ -125,11 +131,13 @@ body {
         padding-right: 2%;
         margin: 0px;
     }
-    .header_body{
+
+    .header_body {
         max-width: 130px;
         font-size: 12px;
     }
-    .header_info{
+
+    .header_info {
         font-size: 11px;
     }
 }
